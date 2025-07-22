@@ -1,0 +1,240 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error occurred",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "back": "Back",
+    "platformSubtitle": "Online mental health therapy platform",
+    "copyright": "© 2024 therajai. All rights reserved"
+  },
+  "navigation": {
+    "home": "Home",
+    "appointments": "My Appointments",
+    "findTherapist": "Find Therapists",
+    "videoCall": "Video Call",
+    "therapistAppointments": "Appointments",
+    "schedule": "Schedule",
+    "allAppointments": "All Appointments",
+    "therapistSchedule": "Therapist Appointments",
+    "reports": "Reports",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "loginSubtitle": "Enter your details to login to therajai",
+    "registerSubtitle": "Create your account to get started",
+    "selectUserType": "Select User Type",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "name": "Full Name",
+    "userType": "Account Type",
+    "client": "Client",
+    "therapist": "Therapist",
+    "clientDescription": "Find and book services with psychologists",
+    "therapistDescription": "Provide online consultation services",
+    "registerAsClient": "Register as Client",
+    "registerAsTherapist": "Register as Therapist",
+    "fillInformation": "Fill in your information to register",
+    "backToUserType": "← Select User Type Again",
+    "passwordPlaceholder": "Password (at least 6 characters)",
+    "confirmPasswordPlaceholder": "Confirm Password",
+    "fullNamePlaceholder": "Full Name",
+    "loggingIn": "Logging in...",
+    "registering": "Creating account...",
+    "invalidCredentials": "Invalid email or password",
+    "loginError": "An error occurred during login",
+    "registerError": "An error occurred during registration",
+    "passwordMismatch": "Passwords do not match",
+    "emailTaken": "Email is already registered",
+    "registrationSuccess": "Account created successfully!",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "forgotPassword": "Forgot password?",
+    "createAccount": "Create Account",
+    "signInHere": "Sign in here",
+    "securityNotice": "Your data is protected and secure"
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "client": "Dashboard",
+    "therapist": "Dashboard",
+    "loading": "Loading...",
+    "greeting": {
+      "morning": "Good morning",
+      "afternoon": "Good afternoon", 
+      "evening": "Good evening"
+    },
+    "clientDashboard": "Client Dashboard",
+    "therapistDashboard": "Therapist Dashboard",
+    "findTherapist": {
+      "title": "Find Therapists",
+      "description": "Search and select suitable therapists",
+      "action": "Start Searching"
+    },
+    "myAppointments": {
+      "title": "My Appointments",
+      "description": "View and manage all appointments",
+      "action": "View Appointments"
+    },
+    "onlineConsultation": {
+      "title": "Online Consultation",
+      "description": "Join video consultation sessions",
+      "action": "Test Video Call"
+    },
+    "payment": {
+      "title": "Payments",
+      "description": "View payment history and receipts",
+      "viewPayments": "View Payments",
+      "testPayment": "Test Payment"
+    },
+    "serviceHistory": {
+      "title": "Service History",
+      "description": "View all consultation history",
+      "action": "View History"
+    },
+    "therapistAppointments": {
+      "title": "Appointments",
+      "description": "View and manage client appointments",
+      "action": "View Appointments"
+    },
+    "therapistSchedule": {
+      "title": "Schedule",
+      "description": "Manage schedule and availability",
+      "action": "Manage Schedule"
+    },
+    "onlineRoom": {
+      "title": "Online Consultation Room",
+      "description": "Start video consultation sessions",
+      "action": "Create Consultation Room"
+    },
+    "therapistReports": {
+      "title": "Reports",
+      "description": "View statistics and service reports",
+      "action": "View Reports"
+    },
+    "profile": {
+      "title": "Profile Information",
+      "description": "Manage personal information and settings",
+      "action": "Edit Profile"
+    },
+    "stats": {
+      "todaysAppointments": "Today's Appointments",
+      "completedSessions": "Completed Sessions", 
+      "newMessages": "New Messages",
+      "progress": "Progress"
+    },
+    "commission": {
+      "title": "Revenue & Commission",
+      "description": "View revenue and commission from services",
+      "action": "View Revenue"
+    }
+  },
+  "language": {
+    "thai": "ไทย",
+    "english": "English",
+    "switchLanguage": "Switch Language"
+  },
+  "validation": {
+    "nameMinLength": "Name must be at least 2 characters",
+    "emailInvalid": "Invalid email format",
+    "passwordMinLength": "Password must be at least 6 characters",
+    "firstNameRequired": "Please enter first name",
+    "lastNameRequired": "Please enter last name",
+    "titleRequired": "Please enter title",
+    "licenseNumberRequired": "Please enter license number",
+    "specializationsRequired": "Please select at least 1 specialization",
+    "experienceMinimum": "Experience must be at least 0 years",
+    "educationRequired": "Please enter education",
+    "languagesRequired": "Please select at least 1 language",
+    "bioMinLength": "Bio must be at least 50 characters",
+    "hourlyRateMinimum": "Hourly rate must be at least 0"
+  },
+  "onboarding": {
+    "therapist": {
+      "title": "Therapist Onboarding",
+      "personalInfo": "Personal Information",
+      "professionalInfo": "Professional Information",
+      "serviceDetails": "Service Details",
+      "documents": "Documents",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "title": "Title",
+      "phone": "Phone",
+      "dateOfBirth": "Date of Birth",
+      "licenseNumber": "License Number",
+      "experience": "Years of Experience",
+      "education": "Education",
+      "specializations": "Specializations",
+      "languages": "Languages",
+      "bio": "Biography",
+      "hourlyRate": "Hourly Rate (THB)",
+      "availableOnline": "Available for Online Sessions",
+      "availableInPerson": "Available for In-Person Sessions",
+      "address": "Address",
+      "back": "Back",
+      "next": "Next",
+      "saving": "Saving...",
+      "submit": "Submit Profile",
+      "pleaseComplete": "Please fill out all required fields",
+      "errorSaving": "Error saving profile",
+      "successSaving": "Profile saved successfully!",
+      "uploadLicense": "Upload License Document",
+      "uploadDiploma": "Upload Diploma",
+      "uploadPhoto": "Upload Profile Photo"
+    },
+    "specializations": {
+      "anxiety": "Anxiety",
+      "depression": "Depression",
+      "stress": "Stress",
+      "relationships": "Relationship Issues",
+      "familyTherapy": "Family Therapy",
+      "childTherapy": "Child & Adolescent Therapy",
+      "ptsd": "PTSD",
+      "ocd": "OCD",
+      "sleepIssues": "Sleep Issues",
+      "groupTherapy": "Group Therapy",
+      "emotionManagement": "Emotion Management",
+      "addictionIssues": "Addiction Issues"
+    }
+  },
+  "home": {
+    "title": "Welcome to therajai",
+    "subtitle": "Mental Health Platform for Thailand", 
+    "description": "Connect with licensed psychologists in Thailand",
+    "getStartedClient": "Get Started as Client",
+    "getStartedTherapist": "Register as Therapist",
+    "findTherapists": {
+      "title": "Find Therapists",
+      "description": "Search and select suitable therapists for you"
+    },
+    "onlineBooking": {
+      "title": "Online Booking", 
+      "description": "Book online consultations easily"
+    },
+    "securePrivate": {
+      "title": "Secure and Private",
+      "description": "Your information is safe and confidential"
+    },
+    "startToday": {
+      "title": "Start your mental health journey today",
+      "description": "Everyone deserves good mental health care",
+      "loginButton": "Sign In"
+    },
+    "features": {
+      "smartMatching": "Smart matching system to help you find therapists that meet your needs",
+      "flexibleScheduling": "Flexible booking system with notifications and schedule management", 
+      "medicalGrade": "Medical-grade security system according to healthcare standards"
+    }
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "common": {
+    "loading": "กำลังโหลด...",
+    "error": "เกิดข้อผิดพลาด",
+    "success": "สำเร็จ",
+    "cancel": "ยกเลิก",
+    "confirm": "ยืนยัน",
+    "save": "บันทึก",
+    "edit": "แก้ไข",
+    "delete": "ลบ",
+    "search": "ค้นหา",
+    "back": "กลับ",
+    "platformSubtitle": "แพลตฟอร์มบำบัดจิตใจออนไลน์",
+    "copyright": "© 2024 therajai. สงวนลิขสิทธิ์"
+  },
+  "navigation": {
+    "home": "หน้าหลัก",
+    "appointments": "นัดหมายของฉัน",
+    "findTherapist": "ค้นหานักจิตวิทยา",
+    "videoCall": "วิดีโอคอล",
+    "therapistAppointments": "การนัดหมาย",
+    "schedule": "ตารางเวลา",
+    "allAppointments": "การนัดหมายทั้งหมด",
+    "therapistSchedule": "การนัดหมายนักจิตวิทยา",
+    "reports": "รายงาน",
+    "logout": "ออกจากระบบ"
+  },
+  "auth": {
+    "login": "เข้าสู่ระบบ",
+    "register": "สมัครสมาชิก",
+    "logout": "ออกจากระบบ",
+    "loginSubtitle": "กรอกข้อมูลเพื่อเข้าสู่ระบบ therajai",
+    "registerSubtitle": "สร้างบัญชีของคุณเพื่อเริ่มต้น",
+    "selectUserType": "เลือกประเภทผู้ใช้งาน",
+    "email": "อีเมล",
+    "password": "รหัสผ่าน",
+    "confirmPassword": "ยืนยันรหัสผ่าน",
+    "firstName": "ชื่อจริง",
+    "lastName": "นามสกุล",
+    "name": "ชื่อ-นามสกุล",
+    "userType": "ประเภทบัญชี",
+    "client": "ผู้ใช้บริการ",
+    "therapist": "นักจิตวิทยา",
+    "clientDescription": "ค้นหาและจองบริการกับนักจิตวิทยา",
+    "therapistDescription": "ให้บริการปรึกษาออนไลน์",
+    "registerAsClient": "สมัครสมาชิกผู้ใช้บริการ",
+    "registerAsTherapist": "สมัครสมาชิกนักจิตวิทยา",
+    "fillInformation": "กรอกข้อมูลเพื่อสมัครสมาชิก",
+    "backToUserType": "← เลือกประเภทผู้ใช้ใหม่",
+    "passwordPlaceholder": "รหัสผ่าน (อย่างน้อย 6 ตัวอักษร)",
+    "confirmPasswordPlaceholder": "ยืนยันรหัสผ่าน",
+    "fullNamePlaceholder": "ชื่อ นามสกุล",
+    "loggingIn": "กำลังเข้าสู่ระบบ...",
+    "registering": "กำลังสร้างบัญชี...",
+    "invalidCredentials": "อีเมลหรือรหัสผ่านไม่ถูกต้อง",
+    "loginError": "เกิดข้อผิดพลาดในการเข้าสู่ระบบ",
+    "registerError": "เกิดข้อผิดพลาดในการสมัครสมาชิก",
+    "passwordMismatch": "รหัสผ่านไม่ตรงกัน",
+    "emailTaken": "อีเมลนี้ถูกใช้งานแล้ว",
+    "registrationSuccess": "สร้างบัญชีสำเร็จ!",
+    "noAccount": "ยังไม่มีบัญชี?",
+    "hasAccount": "มีบัญชีแล้ว?",
+    "forgotPassword": "ลืมรหัสผ่าน?",
+    "createAccount": "สร้างบัญชี",
+    "signInHere": "เข้าสู่ระบบที่นี่",
+    "securityNotice": "ข้อมูลของคุณได้รับการปกป้องอย่างปลอดภัย"
+  },
+  "dashboard": {
+    "welcome": "ยินดีต้อนรับ",
+    "client": "แดชบอร์ด",
+    "therapist": "แดชบอร์ด",
+    "loading": "กำลังโหลด...",
+    "greeting": {
+      "morning": "สวัสดีตอนเช้า",
+      "afternoon": "สวัสดีตอนบ่าย",
+      "evening": "สวัสดีตอนเย็น"
+    },
+    "clientDashboard": "แดชบอร์ดผู้ใช้บริการ",
+    "therapistDashboard": "แดชบอร์ดนักจิตวิทยา",
+    "findTherapist": {
+      "title": "ค้นหานักจิตวิทยา",
+      "description": "ค้นหาและเลือกนักจิตวิทยาที่เหมาะสม",
+      "action": "เริ่มค้นหา"
+    },
+    "myAppointments": {
+      "title": "นัดหมายของฉัน",
+      "description": "ดูและจัดการนัดหมายทั้งหมด",
+      "action": "ดูนัดหมาย"
+    },
+    "onlineConsultation": {
+      "title": "การปรึกษาออนไลน์",
+      "description": "เข้าร่วมการปรึกษาทางวิดีโอ",
+      "action": "ทดสอบวิดีโอคอล"
+    },
+    "payment": {
+      "title": "การชำระเงิน",
+      "description": "ดูประวัติการชำระเงินและใบเสร็จ",
+      "viewPayments": "ดูการชำระเงิน",
+      "testPayment": "ทดสอบการชำระเงิน"
+    },
+    "serviceHistory": {
+      "title": "ประวัติการใช้บริการ",
+      "description": "ดูประวัติการปรึกษาทั้งหมด",
+      "action": "ดูประวัติ"
+    },
+    "therapistAppointments": {
+      "title": "การนัดหมาย",
+      "description": "ดูและจัดการการนัดหมายผู้ใช้บริการ",
+      "action": "ดูการนัดหมาย"
+    },
+    "therapistSchedule": {
+      "title": "ตารางเวลา",
+      "description": "จัดการตารางเวลาและความพร้อม",
+      "action": "จัดการตารางเวลา"
+    },
+    "onlineRoom": {
+      "title": "ห้องปรึกษาออนไลน์",
+      "description": "เริ่มการปรึกษาทางวิดีโอ",
+      "action": "สร้างห้องปรึกษา"
+    },
+    "therapistReports": {
+      "title": "รายงาน",
+      "description": "ดูสถิติและรายงานการให้บริการ",
+      "action": "ดูรายงาน"
+    },
+    "profile": {
+      "title": "ข้อมูลโปรไฟล์",
+      "description": "จัดการข้อมูลส่วนตัวและการตั้งค่า",
+      "action": "แก้ไขโปรไฟล์"
+    },
+    "stats": {
+      "todaysAppointments": "นัดหมายวันนี้",
+      "completedSessions": "เซสชันเสร็จแล้ว",
+      "newMessages": "ข้อความใหม่",
+      "progress": "ความคืบหน้า"
+    },
+    "commission": {
+      "title": "รายได้และคอมมิชชั่น",
+      "description": "ดูรายได้และคอมมิชชั่นจากการให้บริการ",
+      "action": "ดูรายได้"
+    }
+  },
+  "language": {
+    "thai": "ไทย",
+    "english": "English",
+    "switchLanguage": "เปลี่ยนภาษา"
+  },
+  "validation": {
+    "nameMinLength": "ชื่อต้องมีอย่างน้อย 2 ตัวอักษร",
+    "emailInvalid": "รูปแบบอีเมลไม่ถูกต้อง",
+    "passwordMinLength": "รหัสผ่านต้องมีอย่างน้อย 6 ตัวอักษร",
+    "firstNameRequired": "กรุณาใส่ชื่อ",
+    "lastNameRequired": "กรุณาใส่นามสกุล",
+    "titleRequired": "กรุณาใส่คำนำหน้า",
+    "licenseNumberRequired": "กรุณาใส่หมายเลขใบอนุญาต",
+    "specializationsRequired": "กรุณาเลือกความเชี่ยวชาญอย่างน้อย 1 ด้าน",
+    "experienceMinimum": "ประสบการณ์ต้องไม่น้อยกว่า 0 ปี",
+    "educationRequired": "กรุณาใส่วุฒิการศึกษา",
+    "languagesRequired": "กรุณาเลือกภาษาอย่างน้อย 1 ภาษา",
+    "bioMinLength": "ประวัติส่วนตัวต้องมีอย่างน้อย 50 ตัวอักษร",
+    "hourlyRateMinimum": "ค่าบริการต้องไม่น้อยกว่า 0"
+  },
+  "onboarding": {
+    "therapist": {
+      "title": "การลงทะเบียนนักจิตวิทยา",
+      "personalInfo": "ข้อมูลส่วนตัว",
+      "professionalInfo": "ข้อมูลวิชาชีพ",
+      "serviceDetails": "รายละเอียดบริการ",
+      "documents": "เอกสาร",
+      "firstName": "ชื่อจริง",
+      "lastName": "นามสกุล",
+      "title": "คำนำหน้า",
+      "phone": "หมายเลขโทรศัพท์",
+      "dateOfBirth": "วันเกิด",
+      "licenseNumber": "หมายเลขใบอนุญาต",
+      "experience": "ประสบการณ์ (ปี)",
+      "education": "วุฒิการศึกษา",
+      "specializations": "ความเชี่ยวชาญ",
+      "languages": "ภาษา",
+      "bio": "ประวัติส่วนตัว",
+      "hourlyRate": "ค่าบริการต่อชั่วโมง (บาท)",
+      "availableOnline": "พร้อมให้บริการออนไลน์",
+      "availableInPerson": "พร้อมให้บริการพบหน้า",
+      "address": "ที่อยู่",
+      "back": "ย้อนกลับ",
+      "next": "ถัดไป",
+      "saving": "กำลังบันทึก...",
+      "submit": "ส่งโปรไฟล์",
+      "pleaseComplete": "กรุณากรอกข้อมูลให้ครบถ้วน",
+      "errorSaving": "เกิดข้อผิดพลาดในการบันทึกโปรไฟล์",
+      "successSaving": "บันทึกโปรไฟล์สำเร็จ!",
+      "uploadLicense": "อัปโหลดเอกสารใบอนุญาต",
+      "uploadDiploma": "อัปโหลดปริญญา",
+      "uploadPhoto": "อัปโหลดรูปโปรไฟล์"
+    },
+    "specializations": {
+      "anxiety": "วิตกกังวล",
+      "depression": "ซึมเศร้า",
+      "stress": "ความเครียด",
+      "relationships": "ปัญหาความสัมพันธ์",
+      "familyTherapy": "การบำบัดครอบครัว",
+      "childTherapy": "การบำบัดเด็กและวัยรุ่น",
+      "ptsd": "PTSD",
+      "ocd": "OCD",
+      "sleepIssues": "ปัญหาการนอน",
+      "groupTherapy": "การบำบัดกลุ่ม",
+      "emotionManagement": "การควบคุมอารมณ์",
+      "addictionIssues": "ปัญหาการติดสารเสพติด"
+    }
+  },
+  "home": {
+    "title": "ยินดีต้อนรับสู่ therajai",
+    "subtitle": "แพลตฟอร์มสุขภาพจิตสำหรับคนไทย",
+    "description": "เชื่อมต่อกับนักจิตวิทยาที่ได้รับใบอนุญาตในประเทศไทย",
+    "getStartedClient": "เริ่มต้นเป็นผู้ใช้บริการ",
+    "getStartedTherapist": "สมัครเป็นนักจิตวิทยา",
+    "findTherapists": {
+      "title": "ค้นหานักจิตวิทยา",
+      "description": "ค้นหาและเลือกนักจิตวิทยาที่เหมาะสมกับคุณ"
+    },
+    "onlineBooking": {
+      "title": "นัดหมายออนไลน์",
+      "description": "นัดหมายการปรึกษาออนไลน์ได้ง่ายๆ"
+    },
+    "securePrivate": {
+      "title": "ปลอดภัยและเป็นส่วนตัว",
+      "description": "ข้อมูลของคุณปลอดภัยและเป็นความลับ"
+    },
+    "startToday": {
+      "title": "เริ่มต้นการดูแลสุขภาพจิตวันนี้",
+      "description": "ทุกคนสมควรได้รับการดูแลสุขภาพจิตที่ดี",
+      "loginButton": "เข้าสู่ระบบ"
+    },
+    "features": {
+      "smartMatching": "ระบบจับคู่อัจฉริยะที่จะช่วยคุณหานักจิตวิทยาที่ตรงกับความต้องการ",
+      "flexibleScheduling": "ระบบจองคิวที่ยืดหยุ่น พร้อมการแจ้งเตือนและการจัดการตารางเวลา",
+      "medicalGrade": "ระบบรักษาความปลอดภัยระดับสูงตามมาตรฐานการแพทย์"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:growtherapy.com)",
+      "Bash(mkdir:*)",
+      "Bash(brew services:*)",
+      "Bash(createdb:*)",
+      "Bash(psql:*)",
+      "Bash(npm install:*)",
+      "Bash(npx prisma generate:*)",
+      "Bash(npx prisma:*)",
+      "Bash(node:*)",
+      "Bash(npm run:*)",
+      "Bash(timeout 10 npm run dev)",
+      "Bash(true)",
+      "Bash(npx ts-node:*)",
+      "Bash(brew install:*)",
+      "Bash(/opt/homebrew/bin/node:*)",
+      "Bash(export:*)",
+      "Bash(lsof:*)",
+      "Bash(curl:*)",
+      "Bash(nc:*)",
+      "Bash(pkill:*)",
+      "Bash(cp:*)",
+      "Bash(brew upgrade:*)",
+      "Bash(brew link:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npx next build:*)",
+      "Bash(nvm list:*)",
+      "Bash(nvm use:*)",
+      "Bash(nvm alias:*)",
+      "Bash(source:*)",
+      "Bash(chmod:*)",
+      "Bash(./scripts/setup-node.sh:*)",
+      "Bash(find:*)",
+      "Bash(npm test)",
+      "Bash(npm test:*)",
+      "Bash(git init:*)"
+    ],
+    "deny": []
+  }
+}

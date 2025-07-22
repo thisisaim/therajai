@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-color: #F6EDE5;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-color: #F6EDE5;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background-color: var(--background-color);
+  min-height: 100vh;
+}
+
+.thai-font {
+  font-family: 'Sarabun', sans-serif;
+}
+
+.english-font {
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* Language-specific font classes */
+[lang="th"] {
+  font-family: 'Sarabun', sans-serif;
+}
+
+[lang="en"] {
+  font-family: 'Inter', system-ui, sans-serif;
+}
